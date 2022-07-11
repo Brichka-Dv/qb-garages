@@ -65,7 +65,7 @@ Everything that says optional can be omitted.
             vector3(-800.21, -1513.05, 1.6),
         } 
     },
-    ```
+```
 # parking vehicle using target
  ```
  local garageName = 'pdgarage'
