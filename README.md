@@ -7,8 +7,8 @@ This is a qb-garages script that uses the radialmenu to retrieve and park vehicl
 ![This is an image](https://i.imgur.com/Z66Oen6.png)
 
 # Installation
--Drag 'n Drop replace for qb-garages.
--Install this database
+- Drag 'n Drop replace for qb-garages.
+- Install this database
  ```
  ALTER TABLE `player_vehicles`
 ADD CONSTRAINT FK_playervehicles_players FOREIGN KEY (citizenid)
@@ -16,7 +16,7 @@ REFERENCES `players` (citizenid) ON DELETE CASCADE ON UPDATE CASCADE;
  ```
 
 # rights 
--discord : https://discord.gg/p8HRkBZjh2
+- discord : https://discord.gg/p8HRkBZjh2
 - github: https://github.com/Brichka 
 
 # Config Example
