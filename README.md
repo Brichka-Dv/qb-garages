@@ -1,6 +1,5 @@
 # qb-garages
 This is a qb-garages script that uses the radialmenu to retrieve and park vehicles. Almost everything is fully customizable to the last bit!
-
 # Screenshots
 ![This is an image](https://i.imgur.com/in9X0ul.png)
 ![This is an image](https://i.imgur.com/Hib2Mfe.png)
