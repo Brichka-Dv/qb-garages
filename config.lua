@@ -1,5 +1,5 @@
 --[[
-    Author: JDev17#8160
+
     TRANSLATION:
         To create a new translation file, copy an existing one and rename it to e.g. es (spanish), then translate it and change the imported file in the fxmanifest under shared_scripts.
     GARAGE CONFIGURATION EXAMPLE:
