@@ -16,7 +16,7 @@ REFERENCES `players` (citizenid) ON DELETE CASCADE ON UPDATE CASCADE;
 
 # rights 
 - discord : https://discord.gg/p8HRkBZjh2
-- https://github.com/Brichka-Dv
+- github: https://github.com/Brichka-Dv 
 
 # Config Example
 Everything that says optional can be omitted.
